@@ -16,7 +16,7 @@ El proyecto incluye la imagen de Lippia con todas las herramientas necesarias pa
 when ...
 ```
 
-* Tambien se pueden modificar las ramas que disparan el pipeline de forma manual en la siguiente seccion del documento:
+* También se pueden modificar las ramas que disparan el pipeline de forma manual en la siguiente sección del documento:
 
 ```groovy
 when ...
@@ -56,4 +56,4 @@ Los reportes son generados en una carpeta llamada **Targets**, que sera generada
 
 * El artifact se encuentra para descargar en CI/CD --> Pipelines, dentro del pipeline finalizado, en la parte derecha de la pagina.
 
-**para mas informacion ver [documentacion lippia.](https://github.com/Crowdar/lippia-web-sample-project#getting-started "documentacion lippia.")**
+**para mas información ver [documentación lippia.](https://github.com/Crowdar/lippia-web-sample-project#getting-started "documentación lippia.")**
